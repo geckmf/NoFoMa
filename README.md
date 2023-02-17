@@ -8,7 +8,7 @@ any field that is available in GAP.
 The algorithms are based on, and a combination of:  
  
  K. Bongartz,  A direct approach to the rational normal form, preprint
-                                         available at arXiv:1410.1683.
+                         available at https://arxiv.org/abs/1410.1683.
 
  M. Neunhoeffer and  C. E. Praeger,  Computing minimal polynomials  of
                     matrices, LMS J. Comput. Math. 11 (2008), 252-279;
@@ -18,7 +18,7 @@ The algorithms are based on, and a combination of:
                                 https://doi.org/10.13001/ela.2020.5055
 
  M. Geck, On the Jordan-Chevalley decomposition of a matrix,  preprint
-                                        available at arXiv:2205.05432.
+                        available at https://arXiv.org/abs/2205.05432.
 
 Installing: Inside a GAP session, just say
 
