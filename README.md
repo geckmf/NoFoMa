@@ -23,6 +23,7 @@ The algorithms are based on, and a combination of:
 Installing: Inside a GAP session, just say
 
 gap> Read("nofoma.gd");
+
 gap> Read("nofoma.gi");
 
 Or unpack nfm1r0.tar.gz and place the resulting directory  nofoma-1.0 
